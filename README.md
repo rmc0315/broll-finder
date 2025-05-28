@@ -7,10 +7,6 @@ An intelligent tool that analyzes video scripts and automatically finds relevant
 ![AI-Powered](https://img.shields.io/badge/AI-Powered-purple.svg)
 
 ## ✨ Features
-
-![image](https://github.com/user-attachments/assets/b0d1103c-d9ce-4a25-98b7-90eee342b068)
-
-
 - **🤖 AI-Powered Analysis**: Uses OpenAI GPT to understand scene context and extract relevant visual keywords
 - **🎯 Smart Search**: Generates multiple search queries per scene for better coverage
 - **📺 Quality Filtering**: Prioritizes HD/4K footage with ideal B-roll duration (10-30s)
